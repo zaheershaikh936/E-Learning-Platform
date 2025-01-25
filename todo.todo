@@ -1,0 +1,10 @@
+API for E-Learning Platform
+
+Features:
+CRUD for courses, instructors, and students.
+Enroll students in courses and track progress.
+Generate certificates for course completion.
+Concepts:
+Authentication and authorization with JWT.
+File uploads for course materials (e.g., PDFs, videos).
+Scheduled tasks for generating reports.
